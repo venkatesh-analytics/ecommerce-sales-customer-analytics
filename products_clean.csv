@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,price
+1,Laptop 1,Electronics,Computers,65000.0
+2,Laptop 2,Electronics,Computers,65000.0
+3,Laptop 3,Electronics,Computers,65000.0
+4,Laptop 4,Electronics,Computers,65000.0
+5,Laptop 5,Electronics,Computers,65000.0
+6,Laptop 6,Electronics,Computers,65000.0
+7,Laptop 7,Electronics,Computers,65000.0
+8,Laptop 8,Electronics,Computers,65000.0
+9,Laptop 9,Electronics,Computers,65000.0
+10,Laptop 10,Electronics,Computers,65000.0
+11,Mobile 1,Electronics,Mobiles,25000.0
+12,Mobile 2,Electronics,Mobiles,25000.0
+13,Mobile 3,Electronics,Mobiles,25000.0
+14,Mobile 4,Electronics,Mobiles,25000.0
+15,Mobile 5,Electronics,Mobiles,25000.0
+16,Mobile 6,Electronics,Mobiles,25000.0
+17,Mobile 7,Electronics,Mobiles,25000.0
+18,Mobile 8,Electronics,Mobiles,25000.0
+19,Mobile 9,Electronics,Mobiles,25000.0
+20,Mobile 10,Electronics,Mobiles,25000.0
+21,Smart TV 1,Electronics,Television,45000.0
+22,Smart TV 2,Electronics,Television,45000.0
+23,Smart TV 3,Electronics,Television,45000.0
+24,Smart TV 4,Electronics,Television,45000.0
+25,Smart TV 5,Electronics,Television,45000.0
+26,Smart TV 6,Electronics,Television,45000.0
+27,Smart TV 7,Electronics,Television,45000.0
+28,Smart TV 8,Electronics,Television,45000.0
+29,Smart TV 9,Electronics,Television,45000.0
+30,Smart TV 10,Electronics,Television,45000.0
+31,Headphones 1,Electronics,Accessories,3500.0
+32,Headphones 2,Electronics,Accessories,3500.0
+33,Headphones 3,Electronics,Accessories,3500.0
+34,Headphones 4,Electronics,Accessories,3500.0
+35,Headphones 5,Electronics,Accessories,3500.0
+36,Headphones 6,Electronics,Accessories,3500.0
+37,Headphones 7,Electronics,Accessories,3500.0
+38,Headphones 8,Electronics,Accessories,3500.0
+39,Headphones 9,Electronics,Accessories,3500.0
+40,Headphones 10,Electronics,Accessories,3500.0
+41,Camera 1,Electronics,Cameras,50000.0
+42,Camera 2,Electronics,Cameras,50000.0
+43,Camera 3,Electronics,Cameras,50000.0
+44,Camera 4,Electronics,Cameras,50000.0
+45,Camera 5,Electronics,Cameras,50000.0
+46,Camera 6,Electronics,Cameras,50000.0
+47,Camera 7,Electronics,Cameras,50000.0
+48,Camera 8,Electronics,Cameras,50000.0
+49,Camera 9,Electronics,Cameras,50000.0
+50,Camera 10,Electronics,Cameras,50000.0
+51,Running Shoes 1,Fashion,Footwear,4500.0
+52,Running Shoes 2,Fashion,Footwear,4500.0
+53,Running Shoes 3,Fashion,Footwear,4500.0
+54,Running Shoes 4,Fashion,Footwear,4500.0
+55,Running Shoes 5,Fashion,Footwear,4500.0
+56,Running Shoes 6,Fashion,Footwear,4500.0
+57,Running Shoes 7,Fashion,Footwear,4500.0
+58,Running Shoes 8,Fashion,Footwear,4500.0
+59,Running Shoes 9,Fashion,Footwear,4500.0
+60,Running Shoes 10,Fashion,Footwear,4500.0
+61,Casual Shirt 1,Fashion,Clothing,1800.0
+62,Casual Shirt 2,Fashion,Clothing,1800.0
+63,Casual Shirt 3,Fashion,Clothing,1800.0
+64,Casual Shirt 4,Fashion,Clothing,1800.0
+65,Casual Shirt 5,Fashion,Clothing,1800.0
+66,Casual Shirt 6,Fashion,Clothing,1800.0
+67,Casual Shirt 7,Fashion,Clothing,1800.0
+68,Casual Shirt 8,Fashion,Clothing,1800.0
+69,Casual Shirt 9,Fashion,Clothing,1800.0
+70,Casual Shirt 10,Fashion,Clothing,1800.0
+71,Jeans 1,Fashion,Clothing,2500.0
+72,Jeans 2,Fashion,Clothing,2500.0
+73,Jeans 3,Fashion,Clothing,2500.0
+74,Jeans 4,Fashion,Clothing,2500.0
+75,Jeans 5,Fashion,Clothing,2500.0
+76,Jeans 6,Fashion,Clothing,2500.0
+77,Jeans 7,Fashion,Clothing,2500.0
+78,Jeans 8,Fashion,Clothing,2500.0
+79,Jeans 9,Fashion,Clothing,2500.0
+80,Jeans 10,Fashion,Clothing,2500.0
+81,Backpack 1,Fashion,Bags,2200.0
+82,Backpack 2,Fashion,Bags,2200.0
+83,Backpack 3,Fashion,Bags,2200.0
+84,Backpack 4,Fashion,Bags,2200.0
+85,Backpack 5,Fashion,Bags,2200.0
+86,Backpack 6,Fashion,Bags,2200.0
+87,Backpack 7,Fashion,Bags,2200.0
+88,Backpack 8,Fashion,Bags,2200.0
+89,Backpack 9,Fashion,Bags,2200.0
+90,Backpack 10,Fashion,Bags,2200.0
+91,Smart Watch 1,Fashion,Watches,6500.0
+92,Smart Watch 2,Fashion,Watches,6500.0
+93,Smart Watch 3,Fashion,Watches,6500.0
+94,Smart Watch 4,Fashion,Watches,6500.0
+95,Smart Watch 5,Fashion,Watches,6500.0
+96,Smart Watch 6,Fashion,Watches,6500.0
+97,Smart Watch 7,Fashion,Watches,6500.0
+98,Smart Watch 8,Fashion,Watches,6500.0
+99,Smart Watch 9,Fashion,Watches,6500.0
+100,Smart Watch 10,Fashion,Watches,6500.0
+101,Office Chair 1,Furniture,Chairs,8500.0
+102,Office Chair 2,Furniture,Chairs,8500.0
+103,Office Chair 3,Furniture,Chairs,8500.0
+104,Office Chair 4,Furniture,Chairs,8500.0
+105,Office Chair 5,Furniture,Chairs,8500.0
+106,Office Chair 6,Furniture,Chairs,8500.0
+107,Office Chair 7,Furniture,Chairs,8500.0
+108,Office Chair 8,Furniture,Chairs,8500.0
+109,Office Chair 9,Furniture,Chairs,8500.0
+110,Office Chair 10,Furniture,Chairs,8500.0
+111,Study Table 1,Furniture,Tables,12000.0
+112,Study Table 2,Furniture,Tables,12000.0
+113,Study Table 3,Furniture,Tables,12000.0
+114,Study Table 4,Furniture,Tables,12000.0
+115,Study Table 5,Furniture,Tables,12000.0
+116,Study Table 6,Furniture,Tables,12000.0
+117,Study Table 7,Furniture,Tables,12000.0
+118,Study Table 8,Furniture,Tables,12000.0
+119,Study Table 9,Furniture,Tables,12000.0
+120,Study Table 10,Furniture,Tables,12000.0
+121,Bookshelf 1,Furniture,Storage,9500.0
+122,Bookshelf 2,Furniture,Storage,9500.0
+123,Bookshelf 3,Furniture,Storage,9500.0
+124,Bookshelf 4,Furniture,Storage,9500.0
+125,Bookshelf 5,Furniture,Storage,9500.0
+126,Bookshelf 6,Furniture,Storage,9500.0
+127,Bookshelf 7,Furniture,Storage,9500.0
+128,Bookshelf 8,Furniture,Storage,9500.0
+129,Bookshelf 9,Furniture,Storage,9500.0
+130,Bookshelf 10,Furniture,Storage,9500.0
+131,Sofa 1,Furniture,Sofas,28000.0
+132,Sofa 2,Furniture,Sofas,28000.0
+133,Sofa 3,Furniture,Sofas,28000.0
+134,Sofa 4,Furniture,Sofas,28000.0
+135,Sofa 5,Furniture,Sofas,28000.0
+136,Sofa 6,Furniture,Sofas,28000.0
+137,Sofa 7,Furniture,Sofas,28000.0
+138,Sofa 8,Furniture,Sofas,28000.0
+139,Sofa 9,Furniture,Sofas,28000.0
+140,Sofa 10,Furniture,Sofas,28000.0
+141,Bed Frame 1,Furniture,Beds,22000.0
+142,Bed Frame 2,Furniture,Beds,22000.0
+143,Bed Frame 3,Furniture,Beds,22000.0
+144,Bed Frame 4,Furniture,Beds,22000.0
+145,Bed Frame 5,Furniture,Beds,22000.0
+146,Bed Frame 6,Furniture,Beds,22000.0
+147,Bed Frame 7,Furniture,Beds,22000.0
+148,Bed Frame 8,Furniture,Beds,22000.0
+149,Bed Frame 9,Furniture,Beds,22000.0
+150,Bed Frame 10,Furniture,Beds,22000.0
+151,Coffee Maker 1,Home Appliances,Kitchen,5500.0
+152,Coffee Maker 2,Home Appliances,Kitchen,5500.0
+153,Coffee Maker 3,Home Appliances,Kitchen,5500.0
+154,Coffee Maker 4,Home Appliances,Kitchen,5500.0
+155,Coffee Maker 5,Home Appliances,Kitchen,5500.0
+156,Coffee Maker 6,Home Appliances,Kitchen,5500.0
+157,Coffee Maker 7,Home Appliances,Kitchen,5500.0
+158,Coffee Maker 8,Home Appliances,Kitchen,5500.0
+159,Coffee Maker 9,Home Appliances,Kitchen,5500.0
+160,Coffee Maker 10,Home Appliances,Kitchen,5500.0
+161,Mixer Grinder 1,Home Appliances,Kitchen,4200.0
+162,Mixer Grinder 2,Home Appliances,Kitchen,4200.0
+163,Mixer Grinder 3,Home Appliances,Kitchen,4200.0
+164,Mixer Grinder 4,Home Appliances,Kitchen,4200.0
+165,Mixer Grinder 5,Home Appliances,Kitchen,4200.0
+166,Mixer Grinder 6,Home Appliances,Kitchen,4200.0
+167,Mixer Grinder 7,Home Appliances,Kitchen,4200.0
+168,Mixer Grinder 8,Home Appliances,Kitchen,4200.0
+169,Mixer Grinder 9,Home Appliances,Kitchen,4200.0
+170,Mixer Grinder 10,Home Appliances,Kitchen,4200.0
+171,Vacuum Cleaner 1,Home Appliances,Cleaning,9000.0
+172,Vacuum Cleaner 2,Home Appliances,Cleaning,9000.0
+173,Vacuum Cleaner 3,Home Appliances,Cleaning,9000.0
+174,Vacuum Cleaner 4,Home Appliances,Cleaning,9000.0
+175,Vacuum Cleaner 5,Home Appliances,Cleaning,9000.0
+176,Vacuum Cleaner 6,Home Appliances,Cleaning,9000.0
+177,Vacuum Cleaner 7,Home Appliances,Cleaning,9000.0
+178,Vacuum Cleaner 8,Home Appliances,Cleaning,9000.0
+179,Vacuum Cleaner 9,Home Appliances,Cleaning,9000.0
+180,Vacuum Cleaner 10,Home Appliances,Cleaning,9000.0
+181,Air Cooler 1,Home Appliances,Cooling,11000.0
+182,Air Cooler 2,Home Appliances,Cooling,11000.0
+183,Air Cooler 3,Home Appliances,Cooling,11000.0
+184,Air Cooler 4,Home Appliances,Cooling,11000.0
+185,Air Cooler 5,Home Appliances,Cooling,11000.0
+186,Air Cooler 6,Home Appliances,Cooling,11000.0
+187,Air Cooler 7,Home Appliances,Cooling,11000.0
+188,Air Cooler 8,Home Appliances,Cooling,11000.0
+189,Air Cooler 9,Home Appliances,Cooling,11000.0
+190,Air Cooler 10,Home Appliances,Cooling,11000.0
+191,Air Fryer 1,Home Appliances,Kitchen,6500.0
+192,Air Fryer 2,Home Appliances,Kitchen,6500.0
+193,Air Fryer 3,Home Appliances,Kitchen,6500.0
+194,Air Fryer 4,Home Appliances,Kitchen,6500.0
+195,Air Fryer 5,Home Appliances,Kitchen,6500.0
+196,Air Fryer 6,Home Appliances,Kitchen,6500.0
+197,Air Fryer 7,Home Appliances,Kitchen,6500.0
+198,Air Fryer 8,Home Appliances,Kitchen,6500.0
+199,Air Fryer 9,Home Appliances,Kitchen,6500.0
+200,Air Fryer 10,Home Appliances,Kitchen,6500.0
